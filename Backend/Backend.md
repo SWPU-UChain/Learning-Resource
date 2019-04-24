@@ -50,11 +50,11 @@
     * 资源链接:[https://pan.baidu.com/s/18bJGdVoM2HBWIlN7BykZBQ](https://pan.baidu.com/s/18bJGdVoM2HBWIlN7BykZBQ),提取码:mjjh
     * [参考github](https://github.com/doocs/advanced-java.git)
 ## 推荐几个github
-* https://github.com/Snailclimb/JavaGuide.git
-* https://github.com/wuyouzhuguli/SpringAll.git
-* https://github.com/MisterBooo/LeetCodeAnimation.git
-* https://github.com/CyC2018/CS-Notes.git
-* https://github.com/doocs/advanced-java.git
+* [JavaGuide](https://github.com/Snailclimb/JavaGuide.git)
+* [SpringAll](https://github.com/wuyouzhuguli/SpringAll.git)
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation.git)
+* [CS-Notes](https://github.com/CyC2018/CS-Notes.git)
+* [advanced-java](https://github.com/doocs/advanced-java.git)
 ## 算法
 谈谈感受:
 >哎,无奈算法没怎么刷,笔试和面试都吃了很大的亏.做算法题是一个需要长期坚持的过程,断断续续是没有效果的,
