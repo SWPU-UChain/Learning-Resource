@@ -27,6 +27,9 @@
 * Socket网络编程进阶与实战;资源链接:[https://pan.baidu.com/s/1Fibv0TiU8GMWyXu2yt3PhQ](https://pan.baidu.com/s/1Fibv0TiU8GMWyXu2yt3PhQ),提取码:ni4y
 * SpringBoot2.0深度实践之核心技术篇(建议对Spring核心源码了解后再学习比较轻松);资源链接:[https://pan.baidu.com/s/1mpl2EHqqoHIhlkdqcr_w6A](https://pan.baidu.com/s/1mpl2EHqqoHIhlkdqcr_w6A),提取码:w5wm
 * Java并发编程与高并发解决方案;资源链接:[https://pan.baidu.com/s/1zIaQdFBtDzF9aa_MEbsDVA](https://pan.baidu.com/s/1zIaQdFBtDzF9aa_MEbsDVA),提取码:pcxx
+* JVM底层原理:
+    * [参考github](https://github.com/kvenLin/JDK-Source.git)
+    * [视频教程](https://www.bilibili.com/video/av29502877/)
 ## 实战类
 * SSM到SpringBoot-从零开发校园商铺,资源链接:[https://pan.baidu.com/s/1o-vTqxA-9bppQS2RZV9IWA](https://pan.baidu.com/s/1o-vTqxA-9bppQS2RZV9IWA),提取码:huz7
 * SpringBoot企业级微信点餐系统(推荐);资源链接:[https://pan.baidu.com/s/1BJFm4zUBIa_8wKQloUGjeQ](https://pan.baidu.com/s/1BJFm4zUBIa_8wKQloUGjeQ),提取码:r2q5
