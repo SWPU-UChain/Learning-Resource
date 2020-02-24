@@ -27,6 +27,7 @@
 * Socket网络编程进阶与实战;资源链接:[https://pan.baidu.com/s/1Fibv0TiU8GMWyXu2yt3PhQ](https://pan.baidu.com/s/1Fibv0TiU8GMWyXu2yt3PhQ),提取码:ni4y
 * SpringBoot2.0深度实践之核心技术篇(建议对Spring核心源码了解后再学习比较轻松);资源链接:[https://pan.baidu.com/s/1mpl2EHqqoHIhlkdqcr_w6A](https://pan.baidu.com/s/1mpl2EHqqoHIhlkdqcr_w6A),提取码:w5wm
 * Java并发编程与高并发解决方案;资源链接:[https://pan.baidu.com/s/1zIaQdFBtDzF9aa_MEbsDVA](https://pan.baidu.com/s/1zIaQdFBtDzF9aa_MEbsDVA),提取码:pcxx
+* Docker环境下的前后端分离项目部署与运维(没有实际的编码,推荐尽早看,对后面项目的架构和部署有很大的帮助):[https://pan.baidu.com/s/1_xSFZwlHY73xZ25aiuR9xw](https://pan.baidu.com/s/1_xSFZwlHY73xZ25aiuR9xw),提取码:4515
 * JVM底层原理:
     * [参考github](https://github.com/kvenLin/JDK-Source.git)
     * [视频教程](https://www.bilibili.com/video/av29502877/)
@@ -34,6 +35,7 @@
 * SSM到SpringBoot-从零开发校园商铺,资源链接:[https://pan.baidu.com/s/1o-vTqxA-9bppQS2RZV9IWA](https://pan.baidu.com/s/1o-vTqxA-9bppQS2RZV9IWA),提取码:huz7
 * SpringBoot企业级微信点餐系统(推荐);资源链接:[https://pan.baidu.com/s/1BJFm4zUBIa_8wKQloUGjeQ](https://pan.baidu.com/s/1BJFm4zUBIa_8wKQloUGjeQ),提取码:r2q5
 * SpringCloud商品订单服务(结合上一个实战,微信点餐系统的微服务版本);资源链接:[https://pan.baidu.com/s/10ylPOfhgcIbJ-y4sbP5Tpg](https://pan.baidu.com/s/10ylPOfhgcIbJ-y4sbP5Tpg),提取码:4bzm
+* SpringCloud微服务安全实战:[https://pan.baidu.com/s/1W6VfKPSuyxfbMzlvt9nz6w](https://pan.baidu.com/s/1W6VfKPSuyxfbMzlvt9nz6w),提取码:xd59
 * SpringBoot技术栈博客企业前后端;资源链接:[https://pan.baidu.com/s/1yVWQAO0zVsnK05Q2lfAAAw](https://pan.baidu.com/s/1yVWQAO0zVsnK05Q2lfAAAw),提取码:kv47
 * Java秒杀系统方案优化-高性能并发实战(推荐);资源链接:[https://pan.baidu.com/s/1wWs_GSK6FKnx6ssSPEEnAw](https://pan.baidu.com/s/1wWs_GSK6FKnx6ssSPEEnAw),提取码:suwm
 * Java三端分离ssm在线教育平台;资源链接:[https://pan.baidu.com/s/1Hl8ckVAD2ujNVOxmupZPDQ](https://pan.baidu.com/s/1Hl8ckVAD2ujNVOxmupZPDQ),提取码:kywm
