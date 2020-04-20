@@ -31,6 +31,7 @@
 * [后端](Backend/Backend.md)
 * [前端](https://github.com/SWPU-UChain/web-documents)
 * [区块链](BlockChain/BlockChain.md)
+* [人工智能](AI/AI.md)
 * ui(待整理...)
 * 算法(待整理...)
 ## 结语

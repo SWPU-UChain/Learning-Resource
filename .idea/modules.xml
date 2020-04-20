@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AI/AI.iml" filepath="$PROJECT_DIR$/AI/AI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Backend/Backend.iml" filepath="$PROJECT_DIR$/Backend/Backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/BlockChain/BlockChain.iml" filepath="$PROJECT_DIR$/BlockChain/BlockChain.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learning-Resource.iml" filepath="$PROJECT_DIR$/Learning-Resource.iml" />
