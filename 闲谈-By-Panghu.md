@@ -100,9 +100,7 @@
         - Bean对象描述Map
           - beanDefinitionMap
         - Bean名称集合
-          - beanDefinitionNames
-
-    - 太多了， ![img](file:///C:\Users\dengg\AppData\Local\Temp\SGPicFaceTpBq\17732\0348BF14.png)  
+          - beanDefinitionNames 
 
     - 看一下流程图吧，有问题可以指出
 
