@@ -45,7 +45,8 @@
 * Java防抖音实战;资源链接:[https://pan.baidu.com/s/1I4MfUVxvgNkHcvYIpfnPfw](https://pan.baidu.com/s/1I4MfUVxvgNkHcvYIpfnPfw),提取码:5an2
 * Java从零到企业级电商实战;资源链接:[https://pan.baidu.com/s/17ppKXrzSKAsrDajzhV3K4Q](https://pan.baidu.com/s/17ppKXrzSKAsrDajzhV3K4Q),提取码:13du
 * NettySpringBoot仿微信聊天全栈实战(前端使用的vue,建议前后端一起看);资源链接:[https://pan.baidu.com/s/1_g6kI4e60lze5H7f6JnxZQ](https://pan.baidu.com/s/1_g6kI4e60lze5H7f6JnxZQ),提取码:ynft
-* （推荐 没有crud 提升数据库设计能力）阿里新零售数据库设计与实战 （升级版）从设计到落地 提升你的数据库“技术&业务” 综合能力[https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g](https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g),提取码:26bw
+* （推荐 没有crud 提升数据库设计能力）阿里新零售数据库设计与实战 （升级版）从设计到落地 提升你的数据库“技术&业务” 综合能力[https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g](https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g),提取码:26bw  
+  笔记链接:[https://zq99299.github.io/mysql-tutorial/ali-new-retail/](https://zq99299.github.io/mysql-tutorial/ali-new-retail/)
 * Spring Cloud Alibaba从入门到进阶;资源链接:[https://pan.baidu.com/s/1lRFOXTUWb_f5uYHsGq4r4Q](https://pan.baidu.com/s/1lRFOXTUWb_f5uYHsGq4r4Q),提取码:ljqb
 * RocketMQ核心技术精讲与高并发抗压实战;资源链接:[https://pan.baidu.com/s/1qQLuYv3z9lj4Wr33AvCihA](https://pan.baidu.com/s/1qQLuYv3z9lj4Wr33AvCihA),提取码:vtu3
 * Java秒杀系统方案优化 高性能高并发实战;资源链接:[https://pan.baidu.com/s/1pCoDw_UPsYm-g6fq4bWJAg](https://pan.baidu.com/s/1pCoDw_UPsYm-g6fq4bWJAg),提取码:rkka
