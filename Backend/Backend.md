@@ -47,6 +47,8 @@
 * NettySpringBoot仿微信聊天全栈实战(前端使用的vue,建议前后端一起看);资源链接:[https://pan.baidu.com/s/1_g6kI4e60lze5H7f6JnxZQ](https://pan.baidu.com/s/1_g6kI4e60lze5H7f6JnxZQ),提取码:ynft
 * （推荐 没有crud 提升数据库设计能力）阿里新零售数据库设计与实战 （升级版）从设计到落地 提升你的数据库“技术&业务” 综合能力[https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g](https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g),提取码:26bw
 * Spring Cloud Alibaba从入门到进阶;资源链接:[https://pan.baidu.com/s/1lRFOXTUWb_f5uYHsGq4r4Q](https://pan.baidu.com/s/1lRFOXTUWb_f5uYHsGq4r4Q),提取码:ljqb
+* RocketMQ核心技术精讲与高并发抗压实战;资源链接:[https://pan.baidu.com/s/1qQLuYv3z9lj4Wr33AvCihA](https://pan.baidu.com/s/1qQLuYv3z9lj4Wr33AvCihA),提取码:vtu3
+
 
 ## 面试
 * Java校招面试Google面试官亲授(讲的比较浅,有时间再看,没时间直接忽略);资源链接:[https://pan.baidu.com/s/1XDbK16mk58HY__kXfkvbpw](https://pan.baidu.com/s/1XDbK16mk58HY__kXfkvbpw),提取码:cpbq
