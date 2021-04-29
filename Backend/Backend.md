@@ -27,12 +27,14 @@
 * Socket网络编程进阶与实战;资源链接:[https://pan.baidu.com/s/1Fibv0TiU8GMWyXu2yt3PhQ](https://pan.baidu.com/s/1Fibv0TiU8GMWyXu2yt3PhQ),提取码:ni4y
 * SpringBoot2.0深度实践之核心技术篇(建议对Spring核心源码了解后再学习比较轻松);资源链接:[https://pan.baidu.com/s/1mpl2EHqqoHIhlkdqcr_w6A](https://pan.baidu.com/s/1mpl2EHqqoHIhlkdqcr_w6A),提取码:w5wm
 * Java并发编程与高并发解决方案;资源链接:[https://pan.baidu.com/s/1zIaQdFBtDzF9aa_MEbsDVA](https://pan.baidu.com/s/1zIaQdFBtDzF9aa_MEbsDVA),提取码:pcxx
+* 阿里新零售数据库设计与实战 （升级版）从设计到落地 提升你的数据库“技术&业务” 综合能力[https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g](https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g),提取码:26bw
 * Netty;资源链接:[https://www.bilibili.com/video/BV1py4y1E7oA?p=56&t=367](https://www.bilibili.com/video/BV1py4y1E7oA?p=56&t=367)
 * Docker环境下的前后端分离项目部署与运维(没有实际的编码,推荐尽早看,对后面项目的架构和部署有很大的帮助):[https://pan.baidu.com/s/1_xSFZwlHY73xZ25aiuR9xw](https://pan.baidu.com/s/1_xSFZwlHY73xZ25aiuR9xw),提取码:4515
 * B站JVM视频;资源链接:[bilibili.com/video/BV1PJ411n7xZ?from=search&seid=2434371149838670598](https://www.bilibili.com/video/BV1PJ411n7xZ?from=search&seid=2434371149838670598)
 * JVM底层原理:
     * [参考github](https://github.com/kvenLin/JDK-Source.git)
     * [视频教程](https://www.bilibili.com/video/av29502877/)
+ 
 ## 实战类
 * SSM到SpringBoot-从零开发校园商铺,资源链接:[https://pan.baidu.com/s/1o-vTqxA-9bppQS2RZV9IWA](https://pan.baidu.com/s/1o-vTqxA-9bppQS2RZV9IWA),提取码:huz7
 * SpringBoot企业级微信点餐系统(推荐);资源链接:[https://pan.baidu.com/s/1BJFm4zUBIa_8wKQloUGjeQ](https://pan.baidu.com/s/1BJFm4zUBIa_8wKQloUGjeQ),提取码:r2q5
