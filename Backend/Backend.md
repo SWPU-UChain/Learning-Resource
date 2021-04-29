@@ -29,7 +29,7 @@
 * Java并发编程与高并发解决方案;资源链接:[https://pan.baidu.com/s/1zIaQdFBtDzF9aa_MEbsDVA](https://pan.baidu.com/s/1zIaQdFBtDzF9aa_MEbsDVA),提取码:pcxx
 * Netty;资源链接:[https://www.bilibili.com/video/BV1py4y1E7oA?p=56&t=367](https://www.bilibili.com/video/BV1py4y1E7oA?p=56&t=367)
 * Docker环境下的前后端分离项目部署与运维(没有实际的编码,推荐尽早看,对后面项目的架构和部署有很大的帮助):[https://pan.baidu.com/s/1_xSFZwlHY73xZ25aiuR9xw](https://pan.baidu.com/s/1_xSFZwlHY73xZ25aiuR9xw),提取码:4515
-* B站JVM视频;资源链接:[bilibili.com/video/BV1PJ411n7xZ?from=search&seid=2434371149838670598](bilibili.com/video/BV1PJ411n7xZ?from=search&seid=2434371149838670598)
+* B站JVM视频;资源链接:[bilibili.com/video/BV1PJ411n7xZ?from=search&seid=2434371149838670598](https://www.bilibili.com/video/BV1PJ411n7xZ?from=search&seid=2434371149838670598)
 * JVM底层原理:
     * [参考github](https://github.com/kvenLin/JDK-Source.git)
     * [视频教程](https://www.bilibili.com/video/av29502877/)
