@@ -48,7 +48,7 @@
 * （推荐 没有crud 提升数据库设计能力）阿里新零售数据库设计与实战 （升级版）从设计到落地 提升你的数据库“技术&业务” 综合能力[https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g](https://pan.baidu.com/s/19lxOzcPkmyPI_Mu9Eswu3g),提取码:26bw
 * Spring Cloud Alibaba从入门到进阶;资源链接:[https://pan.baidu.com/s/1lRFOXTUWb_f5uYHsGq4r4Q](https://pan.baidu.com/s/1lRFOXTUWb_f5uYHsGq4r4Q),提取码:ljqb
 * RocketMQ核心技术精讲与高并发抗压实战;资源链接:[https://pan.baidu.com/s/1qQLuYv3z9lj4Wr33AvCihA](https://pan.baidu.com/s/1qQLuYv3z9lj4Wr33AvCihA),提取码:vtu3
-
+* Java秒杀系统方案优化 高性能高并发实战;资源链接:[https://pan.baidu.com/s/1pCoDw_UPsYm-g6fq4bWJAg](https://pan.baidu.com/s/1pCoDw_UPsYm-g6fq4bWJAg),提取码:rkka
 
 ## 面试
 * Java校招面试Google面试官亲授(讲的比较浅,有时间再看,没时间直接忽略);资源链接:[https://pan.baidu.com/s/1XDbK16mk58HY__kXfkvbpw](https://pan.baidu.com/s/1XDbK16mk58HY__kXfkvbpw),提取码:cpbq
@@ -73,6 +73,8 @@
     * [剑指offer](https://www.nowcoder.com/ta/coding-interviews)
     * 视频讲解资料;资源链接:[https://pan.baidu.com/s/1Dyvzvx7zSLFef4PY1R3HDg](https://pan.baidu.com/s/1Dyvzvx7zSLFef4PY1R3HDg),提取码:s8we
 * 深度实战算法(基于c++语言,感兴趣或想深入算法的同学可以看看);资源链接:[https://pan.baidu.com/s/1uS5wnah8gpTN-CliOJ5YCQ](https://pan.baidu.com/s/1uS5wnah8gpTN-CliOJ5YCQ),提取码:2ckc
+* LeetCode刷题推荐：先刷完剑指offer，最好刷3遍，然后LeetCode热题100道，以及LeetCode前200道题建议都刷完，网上有不少教程，后端也还可以刷刷SQL题，面试有可能会让你手写SQL。
+
 ## 其他资料
 * Java技术书籍汇总;资源链接:[https://pan.baidu.com/s/1yAt5CAcnzj1CtJnk8PIALw](https://pan.baidu.com/s/1yAt5CAcnzj1CtJnk8PIALw),提取码:phd3
 * Java书籍;连接资源:[https://pan.baidu.com/s/17nRmxOmJicH3OmH7rChwRA](https://pan.baidu.com/s/17nRmxOmJicH3OmH7rChwRA),提取码:jxvi
